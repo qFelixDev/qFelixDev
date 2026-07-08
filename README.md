@@ -1,10 +1,3 @@
-<style>
-h1, h2 {
-	color:     #5A00FF;
-	font-family: monospace;
-}
-</style>
-
 # qFelix
 
 I'm a 20 year old graphics programmer and 42 student based in South Germany. I'm also quite knowledgeable about network and system programming. Below is more information about me.
