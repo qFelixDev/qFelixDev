@@ -18,9 +18,7 @@ Full stack web casino
 Cross platform windowing library
 
 ## Programming Languages (ordered by proficiency)
-![](https://skillicons.dev/icons?i=c,python,cpp,go)<img src=https://www.khronos.org/assets/images/api_logos/opengl.svg style="width: 64; padding: 8"></img>![](https://skillicons.dev/icons?i=html,zig,java,typescript,sqlite,haskell,javascript)
-
-html,zig,java,typescript,sqlite,haskell,javascript
+![](https://skillicons.dev/icons?i=c,python,cpp,go)<img src=https://www.khronos.org/assets/images/api_logos/opengl.svg width=64></img>![](https://skillicons.dev/icons?i=html,zig,java,typescript,sqlite,haskell,javascript)
 
 ## Tools (ordered by proficiency)
 - OpenGL
