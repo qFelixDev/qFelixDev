@@ -1,3 +1,5 @@
+*See also: https://codeberg.org/qFelix*
+
 # qFelix
 
 I'm a 20 year old graphics programmer and 42 student based in South Germany. I'm also quite knowledgeable about network and system programming. Below is more information about me.
