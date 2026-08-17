@@ -6,14 +6,7 @@ I'm a 20 year old graphics programmer and 42 student based in South Germany. I'm
 
 ## Ongoing Projects
 
-**ft_transcendence/ft_casino (since 05/2026)**<br>
-Full stack web casino
-
-**caraway (since 08/2026)**<br>
-C utility library that implements containers amongst many other things.
-
-**dr-quine (since 08/2026)**<br>
-Implementation of self replicating programs to many degrees in many different programming languages.
+_None currently_
 
 ## Programming Languages (ordered by proficiency)
 ![](https://skillicons.dev/icons?i=c,python,cpp,go)<img src=https://www.khronos.org/assets/images/api_logos/opengl.svg width=64></img>![](https://skillicons.dev/icons?i=html,zig,java,typescript,sqlite,haskell,javascript)
